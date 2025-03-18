@@ -1,1 +1,1 @@
-The goal of this project is to from scratch implement simplified machine learning algorithms -- linear regression and KNN -- in order to determine whether a new datapoint can be classified as Pichu or P
+The goal of this project is to implement simplified machine learning algorithms (linear regression and KNN) from scratch in order to determine whether a new datapoint can be classified as Pichu or Pikachu.
